@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">689402592088</string>
+    <string name="google_api_key" translatable="false">AIzaSyDZLJIzJNAUTXbwycpLQzR640m01kKN1Lo</string>
+    <string name="google_app_id" translatable="false">1:689402592088:android:f7bd5cbb447aa3d815832d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDZLJIzJNAUTXbwycpLQzR640m01kKN1Lo</string>
+    <string name="google_storage_bucket" translatable="false">kreed-3a5c0.appspot.com</string>
+    <string name="project_id" translatable="false">kreed-3a5c0</string>
+</resources>
